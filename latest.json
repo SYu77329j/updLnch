@@ -1,0 +1,11 @@
+{
+  "version": "1.1.0",
+  "notes": "- Nouvelle page de connexion\n- Corrections et améliorations",
+  "pub_date": "2026-10-25T12:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSV0JBeFJFU3ZvSjByL2EydlJaclpGOWJnN0Nwa2JESEZPdWs0ZzEzYTFpSmg3TUNvQVgya29QZFc3dzlqKzVlSFJaNDZYMmVGTXBTQWNOd1ZvcHVyZEQrdnAzUmVCZWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTIyNDM5CWZpbGU6THV4ZV8xLjEuMF94NjQtc2V0dXAubnNpcy56aXAKOW5KNmtVT1Z0YTM2cUtsNFROT1B4MXVVL20vOWxDeVFoVGxDSEVzLzdzWHdxQ0Y4MDBVVm12SHRKZFFOYXdXcXI0dXF0V0kxWU9Gc1p4VTlvWHVmQWc9PQo=",
+      "url": "https://github.com/SYu77329j/updLnch/releases/download/v1.1.0/Luxe_1.1.0_x64-setup.nsis.zip"
+    }
+  }
+}
